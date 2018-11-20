@@ -1,7 +1,6 @@
 1
 00:00:15,880 --> 00:00:20,213
-- All I was doing was just
-waking up, making breakfast,
+- 일어나자마자 저는 아침을 만들고요,
 
 2
 00:00:20,213 --> 00:00:25,171
